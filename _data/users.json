@@ -1,0 +1,32 @@
+[
+
+    {
+		"_id": "5d7a514b5d2c12c7449be020",
+		"email": "super-admin@mail.com",
+		"password": "123456",
+		"firstname": "Stoyann",
+		"lastname": "velten",
+		"cafat": "765342",
+		"role": "superAdmin"
+    },
+    {
+		"_id": "5d7a514b5d2c12c7449be021",
+		"customer": "5d7a514b5d2c12c7449be010",
+		"contrats": [
+            "9d7a514b5d2c12c7449be070"
+        ],
+		"card": "5d7a514b5d2c12c7449be090",
+		"email": "jcp-admin@mail.com",
+		"password": "123456",
+		"firstname": "Marjorie",
+		"lastname": "ducoup",
+		"cafat": "8764101",
+		"role": "admin",
+		
+		"maritalStatus": "Marié(e)",
+		"educationLevel": "Enseignement Supérieur",
+		"contratType": "CDD",
+		"tauxHorraire": 1800,
+		"drivingLicenseB": true
+    }
+]
