@@ -22,7 +22,7 @@ Welcome to the GitHub repository of **BACKEND API WORKTIME MULTI ENTERPRISE**! B
 - Navigate to the project directory.
 - Run `npm install` to install all dependencies.
 
-### 3. Running the API
+### 🚀 3. Running the API
 
 - Use the command `npm run dev` to start the development server.
 - For production, use the command `npm start`.
@@ -86,7 +86,7 @@ Bienvenue sur le dépôt GitHub de **BACKEND API WORKTIME MULTI ENTREPRISE** ! B
 - Naviguez vers le répertoire du projet.
 - Exécutez `npm install` pour installer toutes les dépendances.
 
-### 3. Démarrer l'API
+### 🚀 3. Démarrer l'API
 
 - Utilisez la commande
   ```npm run dev ```
