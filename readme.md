@@ -4,16 +4,7 @@ Welcome to the GitHub repository of **BACKEND API WORKTIME MULTI ENTERPRISE**! B
 
 [🇫🇷 Cliquez ici pour la version française](#version-française)
 
-## Principal Technologies Used
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" alt="Logo de Node.js" width="50">
-    <img src="https://expressjs.com/images/express-facebook-share.png" alt="Logo de Express.js" width="50">
-    <img src="https://www.mongodb.com/assets/images/global/leaf.png" alt="Logo de MongoDB" width="50">
-    <img src="https://jwt.io/img/pic_logo.svg" alt="Logo de JWT" width="50">
-    <img src="https://www.html5rocks.com/static/images/cors_server_flowchart.png" alt="Logo de CORS" width="50">
-    <img src="https://cdn.jsdelivr.net/gh/motdotla/dotenv@master/dotenv.svg" alt="Logo de dotenv" width="50">
-</div>
 ---
 
 ## 📌 Setup & Installation
@@ -77,19 +68,6 @@ Bienvenue sur le dépôt GitHub de **BACKEND API WORKTIME MULTI ENTREPRISE** ! B
 
 [🇬🇧 Click here for the English version](#english-version)
 
-## Principal Technologies Utilisées dans ce projet
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" alt="Logo de Node.js" width="50">
-    <img src="https://expressjs.com/images/express-facebook-share.png" alt="Logo de Express.js" width="50">
-    <img src="https://www.mongodb.com/assets/images/global/leaf.png" alt="Logo de MongoDB" width="50">
-    <img src="https://jwt.io/img/pic_logo.svg" alt="Logo de JWT" width="50">
-    <img src="https://www.html5rocks.com/static/images/cors_server_flowchart.png" alt="Logo de CORS" width="50">
-    <img src="https://cdn.jsdelivr.net/gh/motdotla/dotenv@master/dotenv.svg" alt="Logo de dotenv" width="50">
-</div>
-
-
----
 
 ## 📌 Configuration & Installation
 
