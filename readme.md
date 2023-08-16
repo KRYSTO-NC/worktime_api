@@ -6,12 +6,14 @@ Welcome to the GitHub repository of **BACKEND API WORKTIME MULTI ENTERPRISE**! B
 
 ## Principal Technologies Used
 
-<img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" alt="Logo de Node.js" width="50">
-<img src="https://expressjs.com/images/express-facebook-share.png" alt="Logo de Express.js" width="50">
-<img src="https://www.mongodb.com/assets/images/global/leaf.png" alt="Logo de MongoDB" width="50">
-<img src="https://jwt.io/img/pic_logo.svg" alt="Logo de JWT" width="50">
-<img src="https://www.html5rocks.com/static/images/cors_server_flowchart.png" alt="Logo de CORS" width="50">
-<img src="https://cdn.jsdelivr.net/gh/motdotla/doten
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" alt="Logo de Node.js" width="50">
+    <img src="https://expressjs.com/images/express-facebook-share.png" alt="Logo de Express.js" width="50">
+    <img src="https://www.mongodb.com/assets/images/global/leaf.png" alt="Logo de MongoDB" width="50">
+    <img src="https://jwt.io/img/pic_logo.svg" alt="Logo de JWT" width="50">
+    <img src="https://www.html5rocks.com/static/images/cors_server_flowchart.png" alt="Logo de CORS" width="50">
+    <img src="https://cdn.jsdelivr.net/gh/motdotla/dotenv@master/dotenv.svg" alt="Logo de dotenv" width="50">
+</div>
 ---
 
 ## 📌 Setup & Installation
@@ -56,7 +58,8 @@ Welcome to the GitHub repository of **BACKEND API WORKTIME MULTI ENTERPRISE**! B
 
 ## 📞 Contact
 
-If you have any questions or suggestions, please don't hesitate to contact us at [email@address.com](mailto:krysto.contact@gmail.com).
+If you have any questions or suggestions, please don't hesitate to contact us at 
+krysto.contact@gmail.com.
 
 ---
 
@@ -76,12 +79,14 @@ Bienvenue sur le dépôt GitHub de **BACKEND API WORKTIME MULTI ENTREPRISE** ! B
 
 ## Principal Technologies Utilisées dans ce projet
 
-<img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" alt="Logo de Node.js" width="50">
-<img src="https://expressjs.com/images/express-facebook-share.png" alt="Logo de Express.js" width="50">
-<img src="https://www.mongodb.com/assets/images/global/leaf.png" alt="Logo de MongoDB" width="50">
-<img src="https://jwt.io/img/pic_logo.svg" alt="Logo de JWT" width="50">
-<img src="https://www.html5rocks.com/static/images/cors_server_flowchart.png" alt="Logo de CORS" width="50">
-<img src="https://cdn.jsdelivr.net/gh/motdotla/doten
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" alt="Logo de Node.js" width="50">
+    <img src="https://expressjs.com/images/express-facebook-share.png" alt="Logo de Express.js" width="50">
+    <img src="https://www.mongodb.com/assets/images/global/leaf.png" alt="Logo de MongoDB" width="50">
+    <img src="https://jwt.io/img/pic_logo.svg" alt="Logo de JWT" width="50">
+    <img src="https://www.html5rocks.com/static/images/cors_server_flowchart.png" alt="Logo de CORS" width="50">
+    <img src="https://cdn.jsdelivr.net/gh/motdotla/dotenv@master/dotenv.svg" alt="Logo de dotenv" width="50">
+</div>
 
 
 ---
@@ -128,7 +133,8 @@ Bienvenue sur le dépôt GitHub de **BACKEND API WORKTIME MULTI ENTREPRISE** ! B
 
 ## 📞 Contact
 
-Si vous avez des questions ou des suggestions, n'hésitez pas à nous contacter à [email@address.com](mailto:krysto.contact@gmail.com).
+Si vous avez des questions ou des suggestions, n'hésitez pas à nous contacter à
+ krysto.contact@gmail.com.
 
 ---
 
