@@ -17,6 +17,7 @@ Welcome to the GitHub repository of **BACKEND API WORKTIME MULTI ENTERPRISE**! B
 ### 2. Installation
 
 - Clone this repository to your local machine.
+  ``` git clone https://github.com/RFID-NC/worktime_api.git ```
 - Navigate to the project directory.
 - Run `npm install` to install all dependencies.
 
@@ -79,18 +80,26 @@ Bienvenue sur le dépôt GitHub de **BACKEND API WORKTIME MULTI ENTREPRISE** ! B
 ### 2. Installation
 
 - Clonez ce dépôt sur votre machine locale.
+    ``` git clone https://github.com/RFID-NC/worktime_api.git ```
 - Naviguez vers le répertoire du projet.
 - Exécutez `npm install` pour installer toutes les dépendances.
 
 ### 3. Démarrer l'API
 
-- Utilisez la commande `npm run dev` pour démarrer le serveur de développement.
-- Pour la production, utilisez la commande `npm start`.
+- Utilisez la commande
+  ```npm run dev ```
+  pour démarrer le serveur de développement.
+- Pour la production, utilisez la commande 
+```npm start```
 
 ### 4. Peuplement de la Base de Données
 
 - Toutes les données de seed se trouvent dans le dossier `_data` à la racine du projet.
-- Pour peupler la base de données, exécutez le script de seeding avec la commande `node seeder -i` pour importer les données et `node seeder -d` pour supprimer toutes les données.
+- Pour peupler la base de données, exécutez le script de seeding avec la commande
+     ``` node seeder -i ```
+-  pour importer les données et 
+     ``` node seeder -d ```
+-   pour supprimer toutes les données.
 
 ### 5. Description des Middlewares
 
