@@ -120,39 +120,39 @@ const server = app.listen(
 )
 
 // Initialisation de Socket.io
-// const io = socketIo(server, {
-//   cors: {
-//     origin: 'http://localhost:3000',
-//     methods: ['GET', 'POST'],
-//     allowedHeaders: ['my-custom-header'],
-//     credentials: true,
-//   },
-// })
+const io = socketIo(server, {
+  cors: {
+    origin: 'http://localhost:3000',
+    methods: ['GET', 'POST'],
+    allowedHeaders: ['my-custom-header'],
+    credentials: true,
+  },
+})
 
-// io.on('connection', (socket) => {
-//   console.log("Un client s'est connecté")
+io.on('connection', (socket) => {
+  console.log("Un client s'est connecté")
 
-//   socket.on('joinRoom', ({ customerID, firstname, lastname }) => {
-//     socket.join(customerID)
+  socket.on('joinRoom', ({ customerID, firstname, lastname }) => {
+    socket.join(customerID)
 
-//     // Informer tous les autres utilisateurs de la même room qu'un nouvel utilisateur s'est connecté
-//     // Notez l'utilisation de `socket.broadcast.to(customerID).emit` pour envoyer le message à tous SAUF l'expéditeur
-//     socket.broadcast.to(customerID).emit('userConnected', {
-//       message: `${firstname} ${lastname} s'est connecté!`,
-//     })
+    // Informer tous les autres utilisateurs de la même room qu'un nouvel utilisateur s'est connecté
+    // Notez l'utilisation de `socket.broadcast.to(customerID).emit` pour envoyer le message à tous SAUF l'expéditeur
+    socket.broadcast.to(customerID).emit('userConnected', {
+      message: `${firstname} ${lastname} s'est connecté!`,
+    })
 
-//     console.log(
-//       `${firstname} ${lastname} s'est connecté à la room ${customerID}`,
-//     )
-//   })
+    console.log(
+      `${firstname} ${lastname} s'est connecté à la room ${customerID}`,
+    )
+  })
 
-//   // Gestion de la déconnexion du client
-//   socket.on('disconnect', () => {
-//     console.log("Un client s'est déconnecté")
-//     // Ici, si vous avez accès au customerID, firstname et lastname de l'utilisateur déconnecté (vous pourriez les stocker dans un objet Map ou ailleurs),
-//     // vous pouvez également envoyer une notification similaire pour informer les autres utilisateurs de sa déconnexion.
-//   })
-// })
+  // Gestion de la déconnexion du client
+  socket.on('disconnect', () => {
+    console.log("Un client s'est déconnecté")
+    // Ici, si vous avez accès au customerID, firstname et lastname de l'utilisateur déconnecté (vous pourriez les stocker dans un objet Map ou ailleurs),
+    // vous pouvez également envoyer une notification similaire pour informer les autres utilisateurs de sa déconnexion.
+  })
+})
 
 // Handle unhandled promise rejections
 process.on('unhandledRejection', (err, promise) => {
