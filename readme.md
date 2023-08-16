@@ -4,6 +4,7 @@ Welcome to the GitHub repository of **BACKEND API WORKTIME MULTI ENTERPRISE**! B
 
 [🇫🇷 Cliquez ici pour la version française](#version-française)
 
+[Explore the API on Postman](https://www.postman.com/cloudy-water-86970/workspace/workshift)
 
 ---
 
@@ -66,6 +67,7 @@ This project is licensed under the MIT License. See the [LICENSE](LINK-TO-LICENS
 # BACKEND API WORKTIME MULTI ENTREPRISE
 
 Bienvenue sur le dépôt GitHub de **BACKEND API WORKTIME MULTI ENTREPRISE** ! Basé en Nouvelle-Calédonie, cette API offre des solutions complètes pour la gestion des ressources humaines et le suivi du temps.
+[Explorer l'API sur Postman](https://www.postman.com/cloudy-water-86970/workspace/workshift)
 
 [🇬🇧 Click here for the English version](#english-version)
 
