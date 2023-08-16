@@ -4,20 +4,14 @@ Welcome to the GitHub repository of **BACKEND API WORKTIME MULTI ENTERPRISE**! B
 
 [🇫🇷 Cliquez ici pour la version française](#version-française)
 
-## Technologies Used
+## Principal Technologies Used
 
-![Node.js Logo](https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg)
-![Express.js Logo](https://expressjs.com/images/express-facebook-share.png)
-![MongoDB Logo](https://www.mongodb.com/assets/images/global/leaf.png)
-![Postman Logo](https://www.postman.com/favicon-32x32.png)
-![JWT Logo](https://jwt.io/img/pic_logo.svg)
-![bcryptjs Logo](https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.9-1/logo.png) 
-![CORS Logo](https://www.html5rocks.com/static/images/cors_server_flowchart.png) 
-![dotenv Logo](https://cdn.jsdelivr.net/gh/motdotla/dotenv@master/dotenv.svg)
-![nodemailer Logo](https://community.nodemailer.com/img/nm_logo_200x136.png)
-![socket.io Logo](https://socket.io/css/images/logo.svg)
-![nodemon Logo](https://nodemon.io/nodemon.png)
-
+<img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" alt="Logo de Node.js" width="50">
+<img src="https://expressjs.com/images/express-facebook-share.png" alt="Logo de Express.js" width="50">
+<img src="https://www.mongodb.com/assets/images/global/leaf.png" alt="Logo de MongoDB" width="50">
+<img src="https://jwt.io/img/pic_logo.svg" alt="Logo de JWT" width="50">
+<img src="https://www.html5rocks.com/static/images/cors_server_flowchart.png" alt="Logo de CORS" width="50">
+<img src="https://cdn.jsdelivr.net/gh/motdotla/doten
 ---
 
 ## 📌 Setup & Installation
@@ -80,19 +74,15 @@ Bienvenue sur le dépôt GitHub de **BACKEND API WORKTIME MULTI ENTREPRISE** ! B
 
 [🇬🇧 Click here for the English version](#english-version)
 
-## Technologies Utilisées
+## Principal Technologies Utilisées dans ce projet
 
-![Logo de Node.js](https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg)
-![Logo de Express.js](https://expressjs.com/images/express-facebook-share.png)
-![Logo de MongoDB](https://www.mongodb.com/assets/images/global/leaf.png)
-![Logo de Postman](https://www.postman.com/favicon-32x32.png)
-![Logo de JWT](https://jwt.io/img/pic_logo.svg)
-![Logo de bcryptjs](https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.9-1/logo.png)
-![Logo de CORS](https://www.html5rocks.com/static/images/cors_server_flowchart.png)
-![Logo de dotenv](https://cdn.jsdelivr.net/gh/motdotla/dotenv@master/dotenv.svg)
-![Logo de nodemailer](https://community.nodemailer.com/img/nm_logo_200x136.png)
-![Logo de socket.io](https://socket.io/css/images/logo.svg)
-![Logo de nodemon](https://nodemon.io/nodemon.png)
+<img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" alt="Logo de Node.js" width="50">
+<img src="https://expressjs.com/images/express-facebook-share.png" alt="Logo de Express.js" width="50">
+<img src="https://www.mongodb.com/assets/images/global/leaf.png" alt="Logo de MongoDB" width="50">
+<img src="https://jwt.io/img/pic_logo.svg" alt="Logo de JWT" width="50">
+<img src="https://www.html5rocks.com/static/images/cors_server_flowchart.png" alt="Logo de CORS" width="50">
+<img src="https://cdn.jsdelivr.net/gh/motdotla/doten
+
 
 ---
 
